@@ -27,12 +27,5 @@
       <guid>https://park-sungjun-618.github.io/posts/new-first-post/</guid>
       <description>Desc Text.</description>
     </item>
-    <item>
-      <title>My First Post</title>
-      <link>https://park-sungjun-618.github.io/posts/bk_my-first-post/</link>
-      <pubDate>Sun, 29 Sep 2024 09:45:51 +0000</pubDate>
-      <guid>https://park-sungjun-618.github.io/posts/bk_my-first-post/</guid>
-      <description>first content - test!</description>
-    </item>
   </channel>
 </rss>
