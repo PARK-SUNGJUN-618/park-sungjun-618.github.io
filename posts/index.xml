@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on ChocoPark-SSBlog</title>
+    <link>https://park-sungjun-618.github.io/ssBlog2/posts/</link>
+    <description>Recent content in Posts on ChocoPark-SSBlog</description>
+    <image>
+      <title>ChocoPark-SSBlog</title>
+      <url>https://park-sungjun-618.github.io/ssBlog2/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://park-sungjun-618.github.io/ssBlog2/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.120.4</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Sep 2024 11:38:34 +0000</lastBuildDate>
+    <atom:link href="https://park-sungjun-618.github.io/ssBlog2/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Second Post</title>
+      <link>https://park-sungjun-618.github.io/ssBlog2/posts/new-second-post/</link>
+      <pubDate>Mon, 30 Sep 2024 11:38:34 +0000</pubDate>
+      <guid>https://park-sungjun-618.github.io/ssBlog2/posts/new-second-post/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>New First Post</title>
+      <link>https://park-sungjun-618.github.io/ssBlog2/posts/new-first-post/</link>
+      <pubDate>Mon, 30 Sep 2024 11:38:11 +0000</pubDate>
+      <guid>https://park-sungjun-618.github.io/ssBlog2/posts/new-first-post/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://park-sungjun-618.github.io/ssBlog2/posts/bk_my-first-post/</link>
+      <pubDate>Sun, 29 Sep 2024 09:45:51 +0000</pubDate>
+      <guid>https://park-sungjun-618.github.io/ssBlog2/posts/bk_my-first-post/</guid>
+      <description>first content - test!</description>
+    </item>
+  </channel>
+</rss>
