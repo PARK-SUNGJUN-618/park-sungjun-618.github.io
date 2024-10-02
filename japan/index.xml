@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Japans on ChocoPark-SSBlog</title>
+    <title>Japans on SSBlog</title>
     <link>https://park-sungjun-618.github.io/japan/</link>
-    <description>Recent content in Japans on ChocoPark-SSBlog</description>
-    <generator>Hugo -- 0.120.4</generator>
+    <description>Recent content in Japans on SSBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Oct 2024 15:16:28 +0000</lastBuildDate>
-    <atom:link href="https://park-sungjun-618.github.io/japan/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Tue, 01 Oct 2024 15:39:38 +0000</lastBuildDate><atom:link href="https://park-sungjun-618.github.io/japan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Japan Post</title>
       <link>https://park-sungjun-618.github.io/japan/first-japan-post/</link>
-      <pubDate>Tue, 01 Oct 2024 15:16:28 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2024 15:39:38 +0000</pubDate>
+      
       <guid>https://park-sungjun-618.github.io/japan/first-japan-post/</guid>
-      <description>Desc Text.</description>
+      <description>Test new post of japan!</description>
+      
     </item>
+    
   </channel>
 </rss>
