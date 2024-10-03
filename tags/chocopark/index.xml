@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Tue, 01 Oct 2024 15:39:38 +0000</lastBuildDate><atom:link href="https://park-sungjun-618.github.io/tags/chocopark/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Oct 2024 10:07:33 +0000</lastBuildDate><atom:link href="https://park-sungjun-618.github.io/tags/chocopark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New First Post</title>
+      <link>https://park-sungjun-618.github.io/posts/new-first-post/</link>
+      <pubDate>Thu, 03 Oct 2024 10:07:33 +0000</pubDate>
+      
+      <guid>https://park-sungjun-618.github.io/posts/new-first-post/</guid>
+      <description>new post!</description>
+      
+    </item>
+    
     <item>
       <title>First Japan Post</title>
       <link>https://park-sungjun-618.github.io/japan/first-japan-post/</link>
@@ -15,16 +25,6 @@
       
       <guid>https://park-sungjun-618.github.io/japan/first-japan-post/</guid>
       <description>Test new post of japan!</description>
-      
-    </item>
-    
-    <item>
-      <title>New First Post</title>
-      <link>https://park-sungjun-618.github.io/posts/new-first-post/</link>
-      <pubDate>Mon, 30 Sep 2024 11:41:45 +0000</pubDate>
-      
-      <guid>https://park-sungjun-618.github.io/posts/new-first-post/</guid>
-      <description>new post!</description>
       
     </item>
     
