@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Thu, 03 Oct 2024 10:07:33 +0000</lastBuildDate><atom:link href="https://park-sungjun-618.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Oct 2024 16:01:23 +0000</lastBuildDate><atom:link href="https://park-sungjun-618.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Concepts of Next.js</title>
+      <link>https://park-sungjun-618.github.io/posts/web-development/basic-concepts-of-next.js/</link>
+      <pubDate>Mon, 07 Oct 2024 16:01:23 +0000</pubDate>
+      
+      <guid>https://park-sungjun-618.github.io/posts/web-development/basic-concepts-of-next.js/</guid>
+      <description>This post is based on the official documentation of Next.</description>
+      
+    </item>
+    
     <item>
       <title>New First Post</title>
       <link>https://park-sungjun-618.github.io/posts/new-first-post/</link>
