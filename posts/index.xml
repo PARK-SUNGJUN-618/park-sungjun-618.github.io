@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2024 Choco Park</copyright>
-    <lastBuildDate>Sun, 20 Oct 2024 11:23:13 +0000</lastBuildDate><atom:link href="https://park-sungjun-618.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Oct 2024 09:45:13 +0000</lastBuildDate><atom:link href="https://park-sungjun-618.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Concepts of Next.js</title>
+      <link>https://park-sungjun-618.github.io/posts/web-development/basic-concepts-of-next.js/</link>
+      <pubDate>Mon, 21 Oct 2024 09:45:13 +0000</pubDate>
+      
+      <guid>https://park-sungjun-618.github.io/posts/web-development/basic-concepts-of-next.js/</guid>
+      <description>This post is based on the official documentation of Next.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://park-sungjun-618.github.io/posts/web-development/basic-concepts-of-next.js/featured.png" />
+    </item>
+    
+    <item>
+      <title>日本ポスト</title>
+      <link>https://park-sungjun-618.github.io/posts/japan/first-japan-post/ja/</link>
+      <pubDate>Sun, 20 Oct 2024 11:23:18 +0000</pubDate>
+      
+      <guid>https://park-sungjun-618.github.io/posts/japan/first-japan-post/ja/</guid>
+      <description>日本語テスト。日本旅行行きたい！。</description>
+      
+    </item>
+    
     <item>
       <title>First Japan Post</title>
       <link>https://park-sungjun-618.github.io/posts/japan/first-japan-post/en/</link>
@@ -16,16 +36,6 @@
       <guid>https://park-sungjun-618.github.io/posts/japan/first-japan-post/en/</guid>
       <description>Test new post of japan!</description>
       
-    </item>
-    
-    <item>
-      <title>Basic Concepts of Next.js</title>
-      <link>https://park-sungjun-618.github.io/posts/web-development/basic-concepts-of-next.js/</link>
-      <pubDate>Sun, 13 Oct 2024 09:31:54 +0000</pubDate>
-      
-      <guid>https://park-sungjun-618.github.io/posts/web-development/basic-concepts-of-next.js/</guid>
-      <description>This post is based on the official documentation of Next.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://park-sungjun-618.github.io/posts/web-development/basic-concepts-of-next.js/featured.png" />
     </item>
     
     <item>
